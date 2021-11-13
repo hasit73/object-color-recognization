@@ -8,7 +8,7 @@
 
 ### IMPORTANT:
 
-- I hadn't uploaded model weights and configuration file because that is already available in yolo_detection repo
+- I hadn't uploaded model weights and configuration files here because those were already available in yolo_detection repo
 - download those files from here : [https://github.com/hasit73/yolo_detection]
 - For detection i was using same code that is available in yolo_detection repo.
 
